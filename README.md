@@ -6,9 +6,3 @@ Here is a link to the [Gitbook](./). \
 Here is a link to the [Github Repo](https://github.com/AlonCohen96/test-project).
 
 <figure><img src=".gitbook/assets/demo.png" alt=""><figcaption><p>A nice picture of this test project.</p></figcaption></figure>
-
-
-
-{% embed url="https://www.youtube.com/watch?v=fjlFNOzfdPo" %}
-A tutorial video.
-{% endembed %}
