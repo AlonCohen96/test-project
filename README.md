@@ -1,6 +1,5 @@
 ---
 icon: hand-wave
-description: This is an optional short page description.
 ---
 
 # Test Project
